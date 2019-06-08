@@ -1,3 +1,5 @@
+include conda.mk
+
 init:
 	python ./Initializer.py
 categorizer:

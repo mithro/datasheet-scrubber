@@ -1,0 +1,11 @@
+pandas
+scipy
+matplot
+matplotlib
+pdfminer.six
+pypdf2
+request
+lxml
+tabula-py
+sklearn
+regex
